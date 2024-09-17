@@ -1,0 +1,75 @@
+@charset "UTF-8";
+/*!
+* Start Bootstrap - Resume v7.0.6 (https://startbootstrap.com/theme/resume)
+* Copyright 2013-2023 Start Bootstrap
+* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE)
+*/
+
+.bg-deer {
+    background-image: url('../assets/course-img/deer.jpg');
+    background-size: 100% auto;
+    background-repeat: repeat;
+    background-position: center center;
+}
+
+.course-page {
+    overflow: auto;
+    min-height: 100%;
+    padding: 3rem 1rem;
+}
+
+.course-title {
+    padding: 1.5rem 0 0 0;
+    color: #EEE;
+    font-family: inherit;
+    font-weight: 900;
+    font-size:22px;
+}
+
+.img-opacity {
+    opacity: 0.7; /* 50% 透明度 */
+}
+
+p {
+    margin: 2rem 0;
+}
+
+.course-hr {
+    margin: 2rem 0;
+    height: 1px; 
+    background-color: #EEE;
+    opacity: .85;
+}
+
+.content-text {
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.murmur {
+    text-align: center;
+    background-color: rgba(155, 1, 1, 0.5);
+    list-style-type: none;
+    font-style: italic;
+    padding: 1rem;
+}
+
+.murmur li {
+    margin: 1.75rem 0;
+}
+
+.reg-btn {
+    padding: 1rem 0;
+}
+
+.footer-custom {
+    padding: 2rem 0;
+    font-weight: 600;
+    font-stretch: condensed;
+    font-size: 14px;
+    color: #AAA;
+}
+
+    .footer-custom a {
+        color: #ffc107;
+    }
