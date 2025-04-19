@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\course-img",
+    "\\assets\\img"
   ],
   "PreviewInSolutionExplorer": false
 }
